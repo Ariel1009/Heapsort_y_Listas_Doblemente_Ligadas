@@ -1,0 +1,2 @@
+C:\Users\ofeli\source\repos\heapsort y listas\Debug\heapsort y listas.exe
+C:\Users\ofeli\source\repos\heapsort y listas\Debug\heapsort y listas.pdb
